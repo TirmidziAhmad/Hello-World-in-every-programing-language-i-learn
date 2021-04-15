@@ -1,8 +1,14 @@
 # Hello-world
 basic programing shit
 
-print ("hello world");
+# python
+print ("hello world")
 
+# javascript
 console.log("hello world");
 
+# c++
 cout<<("hello world");
+
+# Java
+System.out.print("hello world");
